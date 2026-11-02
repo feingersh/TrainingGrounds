@@ -1,0 +1,2 @@
+# TrainingGrounds
+MTG Situation Generator
